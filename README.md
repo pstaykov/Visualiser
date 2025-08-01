@@ -16,7 +16,7 @@ it started as a simple 2D visualiser using matplotlib <br>
 
 ## Screenshots
 
-the microphone Visualiser looks like this when you hum a note. the x axis represents the frequencies y the time and z the magnitude.
+the microphone Visualiser looks like this when you hum a note. the x axis represents the frequencies y the time and z the magnitude. <br>
 <img src="screenshot.png" width="600"/>
 
 ## Installation
