@@ -9,6 +9,11 @@ Supports live microphone input and MP3 playback with visual feedback.
 - see frequency and magnitude
 - MP3 playback progress bar (2D overlay)
 
+## Prototype
+
+it started with a simple 2d visualiser using matplotlib
+<img src="proto.png" width="600"/>
+
 ## Screenshots
 
 <img src="screenshot.png" width="600"/>
