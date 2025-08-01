@@ -11,11 +11,12 @@ Supports live microphone input and MP3 playback with visual feedback.
 
 ## Prototype
 
-it started with a simple 2d visualiser using matplotlib
+it started with as simple 2D visualiser using matplotlib
 <img src="proto.png" width="600"/>
 
 ## Screenshots
 
+the microphone Visualiser looks like this when you hum a note. the x axis represents the frequencies y the time and z the magnitude.
 <img src="screenshot.png" width="600"/>
 
 ## Installation
