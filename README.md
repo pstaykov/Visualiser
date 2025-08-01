@@ -11,7 +11,7 @@ Supports live microphone input and MP3 playback with visual feedback.
 
 ## Prototype
 
-it started with as simple 2D visualiser using matplotlib 
+it started as a simple 2D visualiser using matplotlib <br>
 <img src="proto.png" width="600"/>
 
 ## Screenshots
